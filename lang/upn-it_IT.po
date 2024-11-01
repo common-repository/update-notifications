@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Update Notifications\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 10:17+0100\n"
+"PO-Revision-Date: 2011-07-21 10:17+0100\n"
+"Last-Translator: Mario Spinaci <m.spinaci@businessfinder.it>\n"
+"Language-Team: WebUp <mariospinaci@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../logic.php:108
+msgid "Update notifications: new updates to the site "
+msgstr "Update notifications: nuovi aggiornamenti nel sito "
+
+#: ../logic.php:114
+msgid "There are new updates to the site "
+msgstr "Ci sono nuovi aggiornamenti nel sito "
+
+#: ../logic.php:115
+msgid "To update click on the following"
+msgstr "Per aggiornare clicca sul seguente "
+
+#: ../logic.php:116
+msgid "Below is the list."
+msgstr "Di seguito &egrave; riportato l'elenco."
+
+#: ../logic.php:118
+msgid "Upgrading Wordpress"
+msgstr "Aggiornamento Wordpress"
+
+#: ../logic.php:125
+msgid "Upgrading Plugins"
+msgstr "Aggiornamento Plugins"
+
+#: ../logic.php:132
+msgid "Upgrading Themes"
+msgstr "Aggiornamento Themes"
+
+#: ../logic.php:139
+msgid "This email was created with the plugin Update Notifications."
+msgstr "Questa mail &egrave; stata creata con la plugin Update Notifications."
+
+#: ../update-notification.php:108
+msgid "Update Notifications"
+msgstr "Update Notifications"
+
+#: ../update-notification.php:113
+msgid "Added Email"
+msgstr "Email Aggiuntive"
+
+#: ../update-notification.php:116
+msgid "To enter multiple email addresses separated by a comma"
+msgstr "Per inserire più indirizzi email separarli con una virgola."
+
+#: ../update-notification.php:120
+msgid "Checks for updates every"
+msgstr "Controlla ogni"
+
+#: ../update-notification.php:123
+msgid "Hours"
+msgstr "Ore"
+
+#: ../update-notification.php:127
+#: ../update-notification.php:130
+msgid "Disable notifications for these items"
+msgstr "Disabilita le notifiche per questi elementi"
+
+#: ../update-notification.php:133
+msgid "Wordpress Core"
+msgstr "Wordpress Core"
+
+#: ../update-notification.php:136
+msgid "Plugins"
+msgstr "Plugin"
+
+#: ../update-notification.php:139
+msgid "Themes"
+msgstr "Temi"
+
+#: ../update-notification.php:145
+msgid "Save"
+msgstr "Salva"
+
+#~ msgid "minute"
+#~ msgstr "minute"
+
+#~ msgid "TESTS "
+#~ msgstr "TESTS in ITALIANO"
